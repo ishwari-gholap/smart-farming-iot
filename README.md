@@ -98,7 +98,7 @@ Greenhouse monitoring
 Water management systems
 
 👩‍💻 Author
-Ishwari Gholap
+Ishwari Gholap & Team 
 Inter-Collegiate Aavishkar Research Convention 2025-26
 
 📄 License
